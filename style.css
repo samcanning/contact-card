@@ -1,0 +1,49 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper{
+    width: 700px;
+}
+
+#inputPanel{
+    width: 280px;
+    display: inline-block;
+}
+
+#contactCards{
+    display: inline-block;
+    vertical-align: top;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+form{
+    text-align: right;
+    position: relative;
+    right: 23px;
+}
+
+textarea{
+    width: 251px;
+    height: 100px;
+}
+
+#addUser{
+    margin-top: 15px;
+}
+
+.contactCard{
+    width: 300px;
+    min-height: 100px;
+    border: 1px solid darkgray;
+    padding: 50px 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.contactCard h1{
+    display: inline;
+}
